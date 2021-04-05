@@ -12,4 +12,4 @@ Modulize your biz. process without QtTread.
 <img src="https://user-images.githubusercontent.com/20329907/113539962-f3966280-9619-11eb-98dc-0830d63c5eb6.png">
 
 <Console>
-<img src="https://user-images.githubusercontent.com/20329907/113539576-09efee80-9619-11eb-8a6a-d398a87bcba6.png">
+<img src="https://user-images.githubusercontent.com/20329907/113540429-1aa16400-961b-11eb-953d-6a0d084a2614.png">
