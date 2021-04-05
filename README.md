@@ -1,6 +1,8 @@
 # pyqt_min_progressbar
 The easiest way to attach progressbar into PyQT app
+
 You can add add progressbar using Python Generator.
+
 Modulize your biz. process without QtTread.
 
 - qt_main.py: main PyQT app.
