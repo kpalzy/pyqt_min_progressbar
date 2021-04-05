@@ -7,15 +7,15 @@ def biz_process():
     You can customize the status of your Biz. process using yield.
     Your biz logic have to be located between yield.
     """
-    print("Biz. process is starting...")
+    print("Biz. process is started.")
     yield 1
-    time.sleep(5)
+    time.sleep(2)
 
-    print("Biz. process is in progress...")
+    print("Biz. process is in progress.")
     yield 50
 
-    time.sleep(5)
+    time.sleep(2)
     print("Biz. process is completed.")
     yield 100
 
-    time.sleep(5)
+    time.sleep(2)
