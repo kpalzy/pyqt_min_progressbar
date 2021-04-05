@@ -8,7 +8,7 @@ def biz_process():
     Your biz logic have to be located between yield.
     """
     print("Biz. process is starting...")
-    yield 100
+    yield 1
     time.sleep(5)
 
     print("Biz. process is in progress...")
