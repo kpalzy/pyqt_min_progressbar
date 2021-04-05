@@ -1,5 +1,10 @@
 # pyqt_min_progressbar
-the easiest way to attach progressbar into PyQT app
+The easiest way to attach progressbar into PyQT app
+
+Modulize your biz. process without QtTread.
+
+- qt_main.py: main PyQT app.
+- qt_biz_process.py: biz. process which will be called by main PyQT app.
 
 <PyQT Progress bar>
 <img src="https://user-images.githubusercontent.com/20329907/113539802-90a4cb80-9619-11eb-8581-658fd9e2766a.png">
