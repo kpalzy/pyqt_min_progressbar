@@ -24,7 +24,7 @@ if __name__=='__main__':
     # Get the process_status
     for process_status in biz_process():
         _ProgressBar.set_progressbar(process_status)
-        app.processEvents()
+        QApplication.processEvents()
 
     print("<-- Completed -->")
     _ProgressBar.close()
